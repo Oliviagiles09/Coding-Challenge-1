@@ -30,3 +30,8 @@ consol.log("After multiplication, accountBalance:", accountBalance);
 
 accountBalance /=2;
 consol.log("After division, accountBalance:", accountBalance);
+
+// Task 4 
+let customerName = "Emma";
+let welcomeMessage = "Welcome," + customerName + "! We are happy to have you with us.";
+consol.log(welcomeMessage);
