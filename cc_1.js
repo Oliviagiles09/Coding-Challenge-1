@@ -35,3 +35,13 @@ consol.log("After division, accountBalance:", accountBalance);
 let customerName = "Emma";
 let welcomeMessage = "Welcome," + customerName + "! We are happy to have you with us.";
 consol.log(welcomeMessage);
+
+// Task 5 
+let isLoggedIn = true;
+let hasPermission = true; 
+
+if (isLoggedin && hasPermission) {
+  consol.log("Access granted: You are logged in.";
+}else{
+  consol.log("Access denied: You are not logged in.";
+}
