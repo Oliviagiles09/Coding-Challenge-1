@@ -15,3 +15,18 @@ var isAvailable = true;
 consol.log("productName:", productName, "Type:", typeof productName);
 consol.log("productPrice:", productPrice, "Type:", typeof productPrice);
 consol.log("isAvaiable:", isAvailable, "Type:",typeof isAvailable);
+
+// Task 3
+let accountBalance = 2000; 
+
+accountBalance +=200;
+consol.log("After addition, accountBalance:", accountBalance);
+
+accountBalance -=150;
+consol.log("After subtraction, accountBalance:", accountBalance);
+
+accountBalance *=2;
+consol.log("After multiplication, accountBalance:", accountBalance);
+
+accountBalance /=2;
+consol.log("After division, accountBalance:", accountBalance);
